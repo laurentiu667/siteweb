@@ -79,7 +79,7 @@ function Page1() {
                 </div>
                 <div className="container-image-page1">
                     <div className="container-image">
-                        <img src="/image/ananas.webp" alt="ananas" />
+                        <img src="/image/ananas.png" alt="ananas" />
                     </div>
                 </div>
             </div>
