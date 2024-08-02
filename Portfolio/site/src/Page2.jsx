@@ -25,16 +25,16 @@ export default function Page2(){
             
             <div className="summary-project">
                 <div className="project">
-                    <img src="../image/java.jpg" alt="" />
+                    <img src="../image/java.webp" alt="" />
                 </div>
                 <div className="project">
-                    <img src="../image/java.jpg" alt="" />
+                    <img src="../image/java.webp" alt="" />
                 </div>
                 <div className="project">
-                    <img src="../image/java.jpg" alt="" />
+                    <img src="../image/java.webp" alt="" />
                 </div>
                 <div className="project">
-                    <img src="../image/java.jpg" alt="" />
+                    <img src="../image/java.webp" alt="" />
                 </div>
             </div>
            </section>
