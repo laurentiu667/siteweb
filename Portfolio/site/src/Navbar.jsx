@@ -29,7 +29,7 @@ function Navbar() {
                         </g>
                     </svg>
                     <a href="#">My projects</a>
-                </button>
+                </button>   
                 <div className="hamburger">
                     <svg
                         viewBox="0 0 24 24"
