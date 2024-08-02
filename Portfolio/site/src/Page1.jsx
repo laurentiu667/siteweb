@@ -1,5 +1,5 @@
 import UlSocial from "./UlSocial";
-
+import ananas from "/image/ananas.png"
 function Page1() {
     return (
         <>
@@ -75,7 +75,7 @@ function Page1() {
                 </div>
                 <div className="container-image-page1">
                     <div className="container-image">
-                        <img src="/image/ananas.png" alt="ananas" />
+                        <img src={ananas} alt="ananas" />
                     </div>
                     {/* <div className="under-image">
                         <div>1</div>
