@@ -1,5 +1,5 @@
 import { useState } from "react";
-
+import jeux from "/image/java.webp"
 export default function Page2() {
     const [isHovered, setIsHovered] = useState(false);
 
@@ -600,7 +600,7 @@ export default function Page2() {
                         onMouseDown={handleMouseLeave}
                         className="project"
                     >
-                        <img src="/image/java.webp" alt="" />
+                        <img src={jeux} alt="" />
                         <button>
                             <a href="">Watch it!</a>
                         </button>
@@ -610,7 +610,7 @@ export default function Page2() {
                         onMouseDown={handleMouseLeave}
                         className="project"
                     >
-                        <img src="/image/java.webp" alt="" />
+                        <img src={jeux} alt="" />
                         <button>
                             <a href="">Watch it!</a>
                         </button>
@@ -620,7 +620,7 @@ export default function Page2() {
                         onMouseDown={handleMouseLeave}
                         className="project"
                     >
-                        <img src="/image/java.webp" alt="" />
+                        <img src={jeux} alt="" />
                         <button>
                             <a href="">Watch it!</a>
                         </button>
@@ -630,7 +630,7 @@ export default function Page2() {
                         onMouseDown={handleMouseLeave}
                         className="project"
                     >
-                        <img src="/image/java.webp" alt="" />
+                        <img src={jeux} alt="" />
                         <button>
                             <a href="">Watch it!</a>
                         </button>
