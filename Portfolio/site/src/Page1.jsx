@@ -63,7 +63,7 @@ function Page1() {
                                 <div className="step-info">
                                     <h4>Step 3</h4>
                                     <p>
-                                        coool
+                                        coool1
                                     </p>
                                 </div>
                             </div>
